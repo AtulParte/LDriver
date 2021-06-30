@@ -1,4 +1,4 @@
-# LDriver
+# LDrive
 Applicatoin to transfer files
 # Intro :arrow_right:
   The main intend of this project was to share file to your pc over wifi without using the usb and to create a shared pool for your Home where in family members can share file with each other and can view some of the files directly . But we ended up creating for company rather than Family thus,
